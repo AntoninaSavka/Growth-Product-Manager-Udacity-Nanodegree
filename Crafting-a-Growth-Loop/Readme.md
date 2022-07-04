@@ -6,4 +6,4 @@ In this project, I assumed the role of the Growth Product Manager at Craft Snack
   - Mapping out the path to growth 
   - The path to growth validations
   - A proposal for developing the future growth vision 
-- **exercise-doc-building-validating-and-expanding-growth-loops.docx** - supporting document that describs the process of growth loop formation and step-by-step thinging process while building the presentation.
+- **antonina_savka-building-validating-and-expanding-growth-loops.docx** - supporting document that describs the process of growth loop formation and step-by-step thinging process while building the presentation.
