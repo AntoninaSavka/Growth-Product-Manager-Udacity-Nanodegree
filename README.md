@@ -1,4 +1,4 @@
-# Growth Product Manager Nanodegree
+# Growth Product Manager - Udacity Nanodegree
 This is a set of 3 projects completed as part of [Growth Product Manager Nanodegree Program](https://www.udacity.com/course/growth-product-manager-nanodegree--nd037) from Udacity.
 
 The projects are:
